@@ -3,7 +3,7 @@ import unittest
 import torch
 from torchvision import models
 
-from src.model import BCC_Model
+from src.models import BCC_Model
 
 
 class TestBCCModel(unittest.TestCase):
