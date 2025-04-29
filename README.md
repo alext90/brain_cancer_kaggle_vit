@@ -9,6 +9,8 @@ The dataset used for this project can be found on [Kaggle](https://www.kaggle.co
 ### Running the Project
 To train and evaluate the model, use the following command:
 
+`uv run main.py`
+
 This will:
 
 1. Load and split the dataset.
